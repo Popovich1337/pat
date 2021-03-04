@@ -1,3 +1,9 @@
-Popovych Petrus'ko
-i like this song))0)0))
-https://www.youtube.com/watch?v=1paKfM4d4vE
+class Main {
+  public static void main(String[] args) {
+    StringBuilder builder = new StringBuilder();
+    builder.append("Hello");
+    builder.append(',');
+    builder.append("World!");
+    System.out.println(builder.toString());
+  }
+}
